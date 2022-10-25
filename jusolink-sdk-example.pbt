@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
 @end;
 appname "jusolink-sdk-example";
 applib "jusolink-sdk-example.pbl";
-LibList "jusolink-sdk-example.pbl;jusolink.sdk.pbl;linkhub.sdk.pbl";
+LibList "linkhub.sdk.pbl;jusolink.sdk.pbl;jusolink-sdk-example.pbl";
 type "pb";
